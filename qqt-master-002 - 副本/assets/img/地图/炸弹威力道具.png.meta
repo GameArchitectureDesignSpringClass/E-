@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "78628fdb-fb80-4e54-b2d7-d8bf0e7cecdb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "炸弹威力道具": {
+      "ver": "1.0.3",
+      "uuid": "3be7bb1d-4fa9-4c05-8959-1df19cb3ea31",
+      "rawTextureUuid": "78628fdb-fb80-4e54-b2d7-d8bf0e7cecdb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3.5,
+      "trimX": 19,
+      "trimY": 12,
+      "width": 63,
+      "height": 86,
+      "rawWidth": 101,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

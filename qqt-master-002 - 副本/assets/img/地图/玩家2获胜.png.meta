@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9c688b12-ba09-49ef-9fae-984648e189cf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "玩家2获胜": {
+      "ver": "1.0.3",
+      "uuid": "d13504eb-a89e-427f-ac23-4fcd4114be6b",
+      "rawTextureUuid": "9c688b12-ba09-49ef-9fae-984648e189cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1300,
+      "height": 1100,
+      "rawWidth": 1300,
+      "rawHeight": 1100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

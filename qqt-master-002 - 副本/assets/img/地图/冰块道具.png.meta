@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "65cfcb53-1956-44a4-b556-daaa417fa20a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "冰块道具": {
+      "ver": "1.0.3",
+      "uuid": "0bb84086-dadc-43b9-baa0-848c81287a7f",
+      "rawTextureUuid": "65cfcb53-1956-44a4-b556-daaa417fa20a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -4.5,
+      "trimX": 5,
+      "trimY": 9,
+      "width": 90,
+      "height": 94,
+      "rawWidth": 101,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

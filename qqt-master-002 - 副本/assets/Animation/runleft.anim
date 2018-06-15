@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "runleft",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.38333333333333336,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "20c36e1c-3d44-4050-ad60-5541afb5e0c0"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "bc96dcd3-0294-4d72-bfc3-4a36742e778f"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "c481d331-3089-45d3-a64d-f7d864199158"
+            }
+          },
+          {
+            "frame": 0.36666666666666664,
+            "value": {
+              "__uuid__": "20c36e1c-3d44-4050-ad60-5541afb5e0c0"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

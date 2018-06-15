@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cabef943-e1c9-4fff-b814-16c03072c9f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "手机游戏触屏按钮图标-onscreenControls-平的_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "0291c400-0c93-4f16-acb4-3b9e69e7935d",
+      "rawTextureUuid": "cabef943-e1c9-4fff-b814-16c03072c9f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 48,
+      "height": 48,
+      "rawWidth": 48,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

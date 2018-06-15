@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4d2ecde3-9dce-45b3-86c8-4f28d9eca3aa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "炸弹数量道具": {
+      "ver": "1.0.3",
+      "uuid": "e663d5ff-a543-4619-a45f-4da886d48748",
+      "rawTextureUuid": "4d2ecde3-9dce-45b3-86c8-4f28d9eca3aa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -7,
+      "trimX": 12,
+      "trimY": 18,
+      "width": 77,
+      "height": 81,
+      "rawWidth": 101,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

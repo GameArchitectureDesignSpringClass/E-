@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bb5ec786-a3ee-451a-83e3-93bd8db9497c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "玩家死亡背景": {
+      "ver": "1.0.3",
+      "uuid": "de75bbaf-cb59-4554-abad-b2534a3098ab",
+      "rawTextureUuid": "bb5ec786-a3ee-451a-83e3-93bd8db9497c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1300,
+      "height": 1100,
+      "rawWidth": 1300,
+      "rawHeight": 1100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
